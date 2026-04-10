@@ -37,6 +37,15 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 
+**AI & Developer Tools**
+
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat&logo=visualstudiocode&logoColor=white)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-6E56CF?style=flat&logo=rocket&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white)
+
+
 **IoT & Embedded Systems**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
