@@ -10,7 +10,7 @@
 - 🌾 Previously a **Field Assistant** at GITAM University on a DST-funded IoT research project for silk cocoon farming
 - 💻 Passionate about **Full-Stack Development, IoT, and AI-driven solutions**
 - 🚀 Currently on an intensive sprint learning **React, Django, FastAPI, MySQL, and PostgreSQL**
-- 🛠️ Building [**GitPilot**](https://github.com/J-joke-r/gitpilot) — an AI-powered git wizard that automates GitHub workflows using local Ollama models
+- 🛠️ Building [**GitPilot**](https://github.com/imanishraj/gitpilot) — an AI-powered git wizard that automates GitHub workflows using local Ollama models
 - ✨ Always eager to learn, collaborate, and build things that actually matter
 
 ---
@@ -75,38 +75,38 @@ Prophet · Pandas · NumPy · Matplotlib · ML for crop rotation & irrigation pr
 ### ✈️ GitPilot — AI-powered Git Wizard
 A CLI tool that automates your entire GitHub workflow. Reads your code, generates a README using local Ollama AI, creates the repo, writes commit messages, and pushes — all from one interactive menu. No git knowledge required.
 
-🔗 [View Project](https://github.com/J-joke-r/gitpilot)
+🔗 [View Project](https://github.com/imanishraj/gitpilot)
 
 ---
 
 ### 🌾 Precision Agriculture & Crop Management (IoT + AI)
 Smart drip irrigation system with real-time sensor monitoring (ESP32, DHT22, soil moisture, flow sensor) and Prophet-based crop rotation prediction. Integrated with Blynk IoT and ThingSpeak dashboards.
 
-🔗 [View Project](https://github.com/J-joke-r/precision_agriculture_and_crop_management_using_IoT)
+🔗 [View Project](https://github.com/imanishraj/precision_agriculture_and_crop_management_using_IoT)
 
 ---
 
 ### 🛡️ Secure Community Data Platform
 Full-stack community data collection system with Supabase Auth (email + Google OAuth), admin dashboard with search, filters, pagination, role management, and CSV export. Built with Next.js + Node.js + Express.
 
-🔗 [View Project](https://github.com/J-joke-r/SRN_backend)
+🔗 [View Project](https://github.com/imanishraj/SRN_backend)
 
 ---
 
 ### 🎵 Music Player
 A clean React-based music player with playlist management and audio controls.
 
-🔗 [View Project](https://github.com/J-joke-r/music-player)
+🔗 [View Project](https://github.com/imanishraj/music-player)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=J-joke-r&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=imanishraj&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-joke-r&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanishraj&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-joke-r&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanishraj&layout=compact&theme=radical)
 
 ---
 
