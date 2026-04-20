@@ -6,12 +6,12 @@
 
 ## 🔭 About Me
 
-💼 Currently working as a **Software Developer** at **Alstonair Technologies Pvt. Ltd.**, Bengaluru
-🌾 Previously a **Field Assistant** at GITAM University on a DST-funded IoT research project for silk cocoon farming
-💻 Passionate about **Full-Stack Development, IoT, and AI-driven solutions**
-🚀 Currently on an intensive sprint learning **React, Django, FastAPI, MySQL, and PostgreSQL**
-🛠️ Building [**GitPilot**](https://github.com/J-joke-r/gitpilot) — an AI-powered git wizard that automates GitHub workflows using local Ollama models
-✨ Always eager to learn, collaborate, and build things that actually matter
+- 💼 Currently working as a **Software Developer** at **Alstonair Technologies Pvt. Ltd.**, Bengaluru
+- 🌾 Previously a **Field Assistant** at GITAM University on a DST-funded IoT research project for silk cocoon farming
+- 💻 Passionate about **Full-Stack Development, IoT, and AI-driven solutions**
+- 🚀 Currently on an intensive sprint learning **React, Django, FastAPI, MySQL, and PostgreSQL**
+- 🛠️ Building [**GitPilot**](https://github.com/J-joke-r/gitpilot) — an AI-powered git wizard that automates GitHub workflows using local Ollama models
+- ✨ Always eager to learn, collaborate, and build things that actually matter
 
 ---
 
