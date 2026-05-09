@@ -1,120 +1,52 @@
-# 👋 Hey, I'm Manish R
+# Manish R — Full Stack Developer
 
-🌱 *"Building tech solutions that blend innovation with real-world impact."*
+Software Developer at Alstonair Technologies, Bengaluru. I build full-stack web applications and IoT systems that solve real problems.
 
----
-
-## 🔭 About Me
-
-- 💼 Currently working as a **Software Developer** at **Alstonair Technologies Pvt. Ltd.**, Bengaluru
-- 🌾 Previously a **Field Assistant** at GITAM University on a DST-funded IoT research project for silk cocoon farming
-- 💻 Passionate about **Full-Stack Development, IoT, and AI-driven solutions**
-- 🚀 Currently on an intensive sprint learning **React, Django, FastAPI, MySQL, and PostgreSQL**
-- 🛠️ Building [**GitPilot**](https://github.com/imanishraj/gitpilot) — an AI-powered git wizard that automates GitHub workflows using local Ollama models
-- ✨ Always eager to learn, collaborate, and build things that actually matter
+🌐 **Portfolio:** [manishraj.me](https://manishraj.me) · 📧 [manish64raja@gmail.com](mailto:manish64raja@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/manishrajakumar96)
 
 ---
 
-## 💡 Tech Stack & Tools
+## Work
 
-**Languages & Frameworks**
+**Software Developer** — Alstonair Technologies, Bengaluru *(2026 – Present)*
+Building the NAL project: React + TypeScript frontend, Python/FastAPI backend, PostgreSQL.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-
-**AI & Developer Tools**
-
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat&logo=visualstudiocode&logoColor=white)
-![AntiGravity](https://img.shields.io/badge/AntiGravity-6E56CF?style=flat&logo=rocket&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white)
-
-
-**IoT & Embedded Systems**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-
-ESP32 · Qt Design Studio · Blynk IoT · ThingSpeak · DHT22 · Soil Moisture · NPK · pH · Flow Sensors
-
-**AI & Data**
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
-Prophet · Pandas · NumPy · Matplotlib · ML for crop rotation & irrigation prediction
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+**Field Assistant** — GITAM University, DST-funded IoT Research *(2022 – 2026)*
+Deployed IoT systems for silk cocoon farming; ran farmer awareness workshops (40+ farmers) in Kannada and English.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### ✈️ GitPilot — AI-powered Git Wizard
-A CLI tool that automates your entire GitHub workflow. Reads your code, generates a README using local Ollama AI, creates the repo, writes commit messages, and pushes — all from one interactive [...] 
+**[manishraj.me](https://manishraj.me)** — Personal Portfolio
+Built with Next.js. Features an AI chatbot (Groq + Mistral) and EmailJS contact form. Fully deployed and live.
 
-🔗 [View Project](https://github.com/imanishraj/gitpilot)
+**[GitPilot](https://github.com/imanishraj/gitpilot)** — AI-powered Git CLI
+CLI tool that reads your code, generates a README using local Ollama models, creates the GitHub repo, writes commit messages, and pushes — all in one flow. Published as a Python package.
 
----
+**[Precision Agriculture IoT System](https://github.com/imanishraj/precision_agriculture_and_crop_management_using_IoT)**
+ESP32 + sensors (DHT22, soil moisture, flow) with real-time Blynk IoT dashboard and Prophet-based crop rotation prediction.
 
-### 🌾 Precision Agriculture & Crop Management (IoT + AI)
-Smart drip irrigation system with real-time sensor monitoring (ESP32, DHT22, soil moisture, flow sensor) and Prophet-based crop rotation prediction. Integrated with Blynk IoT and ThingSpeak dashbo[...] 
-
-🔗 [View Project](https://github.com/imanishraj/precision_agriculture_and_crop_management_using_IoT)
-
----
-
-### 🛡️ Secure Community Data Platform
-Full-stack community data collection system with Supabase Auth (email + Google OAuth), admin dashboard with search, filters, pagination, role management, and CSV export. Built with Next.js + Node.[...] 
-
-🔗 [View Project](https://github.com/imanishraj/SRN_backend)
+**[Secure Community Data Platform](https://github.com/imanishraj/SRN_backend)**
+Full-stack data collection system: Supabase Auth (Google OAuth), Next.js frontend, Node.js + Express backend, admin dashboard with search, filters, pagination, and CSV export.
 
 ---
 
-### 🎵 Music Player
-A clean React-based music player with playlist management and audio controls.
+## Tech Stack
 
-🔗 [View Project](https://github.com/imanishraj/music-player)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=imanishraj&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanishraj&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanishraj&layout=compact&theme=radical)
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**Backend:** FastAPI, Node.js, Express, Django, Spring Boot  
+**Databases:** PostgreSQL, MySQL, Supabase, Firebase  
+**IoT:** ESP32, Raspberry Pi, Arduino, Blynk IoT, ThingSpeak  
+**AI/ML:** Ollama, Prophet, Pandas, NumPy  
+**Tools:** Git, Docker, Postman, VS Code
 
 ---
 
-## 📫 Let's Connect
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishrajakumar96)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manish64raja@gmail.com)
+B.Tech Computer Science — GITAM University *(2022 – 2025, CGPA 7.2)*
 
 ---
 
-✨ *I believe technology should solve real-world challenges and empower communities. Always open to collaboration on impactful projects.*
+*Open to Full Stack, IoT, and AI-adjacent roles. Especially interested in mission-driven startups, research labs, and social impact organizations.*
