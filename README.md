@@ -15,18 +15,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🏢 **Software Developer** at **Alstonair Technologies**, Bengaluru — working on a React + TypeScript + FastAPI + PostgreSQL product
-- 🌾 Previously a **Field Assistant** on a DST-funded IoT research project at GITAM University (silk cocoon farming automation)
-- 🤖 Built **GitPilot** — an AI-powered git CLI that automates your entire GitHub workflow using local Ollama models
-- 🌐 Launched **[manishraj.me](https://manishraj.me)** — personal portfolio with an AI chatbot and live contact form
-- 📡 Deep interest in **IoT hardware**, **local AI inference**, and **open source**
-- 🌱 Currently upskilling in cloud (Azure) and working toward GitHub Foundations & AZ-900 certs
+-  **Software Developer** at **Alstonair Technologies**, Bengaluru — working on a React + TypeScript + FastAPI + PostgreSQL product
+-  Previously a **Field Assistant** on a DST-funded IoT research project at GITAM University (silk cocoon farming automation)
+-  Built **GitPilot** — an AI-powered git CLI that automates your entire GitHub workflow using local Ollama models
+-  Launched **[manishraj.me](https://manishraj.me)** — personal portfolio with an AI chatbot and live contact form
+-  Deep interest in **IoT hardware**, **local AI inference**, and **open source**
+-  Currently upskilling in cloud (Azure) and working toward GitHub Foundations & AZ-900 certs
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌐 [manishraj.me](https://manishraj.me) — Personal Portfolio *(Live)*
 > Built with **Next.js** · AI Chatbot (Groq + Mistral) · EmailJS Contact Form · Fully Deployed
@@ -34,6 +34,10 @@
 My portfolio site with an integrated AI assistant and a clean, fast UI. Built from scratch and live.
 
 ---
+### 📦 [Real-Time Order Tracking System](https://github.com/imanishraj/Real-Time-Ordering)
+> **FastAPI** · Apache Kafka (KRaft) · PostgreSQL · Redis · **React** · Docker Compose
+
+Production-grade event-driven microservices system with real-time order tracking, Kafka-based workflows, retries, dead letter queues, and live WebSocket updates without polling.
 
 ### 🧙 [GitPilot](https://github.com/imanishraj/gitpilot) — AI Git Wizard
 > **Python CLI** · Local **Ollama** models · Published package
